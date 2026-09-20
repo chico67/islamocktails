@@ -13,7 +13,7 @@ const PRODUCTS = [
     calloutLeft: "FRESH MANGO<br>WITH ZESTY LEMON",
     ingredients: ["Mango", "Lemon", "Yakult", "Sprite"],
     img: "assets/isla-sol-cutout.webp",
-    price: 120,
+    price: 65,
     bg1: "#FBD087", bg2: "#F3963A", glow: "#FFE1A3",
     colors3d: { liquidBottom: 0xF6B93B, liquidTop: 0xFBD98A, garnish: 0xEFD22E, straw: 0xFFFFFF }
   },
@@ -25,7 +25,7 @@ const PRODUCTS = [
     calloutLeft: "JUICY MELON<br>WITH SWEET DALANDAN",
     ingredients: ["Melon", "Dalandan", "Sprite"],
     img: "assets/veranda-splitz-cutout.webp",
-    price: 120,
+    price: 45,
     bg1: "#D9E9A0", bg2: "#7CB349", glow: "#E7F3B8",
     colors3d: { liquidBottom: 0xBFD65E, liquidTop: 0xE1EC9E, garnish: 0xF08A3C, straw: 0xFFFFFF }
   },
@@ -37,7 +37,7 @@ const PRODUCTS = [
     calloutLeft: "CALAMANSI & HONEY<br>WITH TURMERIC",
     ingredients: ["Calamansi", "Turmeric", "Honey", "Coconut Water"],
     img: "assets/el-nido-nectar-cutout.webp",
-    price: 130,
+    price: 50,
     bg1: "#F7C873", bg2: "#C97B2E", glow: "#FFE1A3",
     colors3d: { liquidBottom: 0xDE9A2E, liquidTop: 0xF0C066, garnish: 0xB7CE3E, straw: 0xEFDFC0 }
   },
@@ -49,7 +49,7 @@ const PRODUCTS = [
     calloutLeft: "WATERMELON & ORANGE<br>WITH COCONUT WATER",
     ingredients: ["Watermelon", "Orange", "Sprite", "Coconut Water"],
     img: "assets/santorini-sunset-cutout.webp",
-    price: 130,
+    price: 45,
     bg1: "#FFA98F", bg2: "#D8446E", glow: "#FFC9B0",
     colors3d: { liquidBottom: 0xE14C4C, liquidTop: 0xFFB37A, garnish: 0xF5822E, straw: 0xFFFFFF }
   }
